@@ -1,0 +1,2 @@
+rootProject.name = "DicodingSubmission-Github"
+include ':app'
